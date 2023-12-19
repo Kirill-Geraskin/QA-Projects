@@ -20,6 +20,7 @@
 
 Ссылка на проект : https://drive.google.com/file/d/1iV_90GGk08fzF_B_cLCEeNOOiYY6XkM0
 
+
 Проект №2 - Тестирование кабинета учителя Skyeng через API.
 
 Цель - Тестирование вкладки "Расписание / Личные события"
@@ -28,11 +29,14 @@
 
 Ссылка на проект : https://docs.google.com/spreadsheets/d/1GSYUjQIK64heLIuaMw5PRyHxJU8rRvc4RjK_r3hWzXk
 
-Проект №3 - Тестирование web-приложение от Skyeng.
 
-Цель - Тестирование функционала "Расписание / Личные события"
+Проект №3 - Финальное задание по SQL.
 
-Ссылка на проект : https://drive.google.com/file/d/1iV_90GGk08fzF_B_cLCEeNOOiYY6XkM0
+Цель - Необходимо написать 12 SQL-запросов для расшифровки плавающего бага.
+
+Ссылка на проект : https://docs.google.com/document/d/1ZjtyhB0AFL-uLC2yRkhyoqyNnehPEHaEAshjwnl1J6c
+
+
 
 
 <h3><b>Контактная информация:</b></h3>
