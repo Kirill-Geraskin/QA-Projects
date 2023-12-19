@@ -13,7 +13,27 @@
 
 <h3><b>Навыки:</b></h3>
 
-<b>Функциональное тестирование</b>, <b>тестирование api</b>, <b>jira</b>, <b>confluence</b>, <b>naumen service desk</b>, <b>html</b>, <b>css</b>, <b>json</b>, <b>sql</b>, <b>qase.io</b>, <b>postman</b>, <b>chrome devtools</b>, <b>zoom</b>, <b>swagger</b>, <b>miro</b>, <b>soapui</b>, <b>mockoon</b>, <b>windows server</b>, <b>windows os</b>, <b>ukm5</b>, <b>1c</b>
+- <b>Функциональное тестирование</b>,
+- <b>тестирование api</b>,
+- <b>jira</b>,
+- <b>confluence</b>,
+- <b>naumen service desk</b>,
+- <b>html</b>,
+- <b>css</b>,
+- <b>json</b>,
+- <b>sql</b>,
+- <b>qase.io</b>,
+- <b>postman</b>,
+- <b>chrome devtools</b>,
+- <b>zoom</b>,
+- <b>swagger</b>,
+- <b>miro</b>,
+- <b>soapui</b>,
+- <b>mockoon</b>,
+- <b>windows server</b>,
+- <b>windows os</b>,
+- <b>ukm5</b>,
+- <b>1c</b>
 
 
 <center><h1>Портфолио</h1></center>
