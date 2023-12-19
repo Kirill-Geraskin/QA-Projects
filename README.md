@@ -1,4 +1,4 @@
-<h1>Инженер по тестированию / QA-Инженер</h1>
+<h5>Инженер по тестированию / QA-Инженер</h5>
 
 <h2>Обо мне :</h2>
 
@@ -9,7 +9,7 @@
 
 <b>Функциональное тестирование, тестирование api, jira, confluence, naumen service desk, html, css, json, sql, qase.io, postman, chrome devtools</b>
 
-<h2>Контактная информация</h2>
+<h2>Контактная информация :</h2>
 
 Email: kelayx@gmail.com
 
