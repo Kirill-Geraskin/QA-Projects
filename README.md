@@ -1,4 +1,4 @@
-<h3>Инженер по тестированию / QA-Инженер</h3>
+<h1>Инженер по тестированию / QA-Инженер</h1>
 
 <h2>Обо мне :</h2>
 
@@ -10,10 +10,9 @@
 <b>Функциональное тестирование, тестирование api, jira, confluence, naumen service desk, html, css, json, sql, qase.io, postman, chrome devtools</b>
 
 <h2>Контактная информация</h2>
-# Heading
 Email: kelayx@gmail.com
-# Heading
+
 LinkedIn: https://linkedin.com/in/kirill-geraskin
-# Heading
+
 Личный сайт: https://citateforms.com/kelayx
 
