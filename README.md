@@ -13,6 +13,5 @@
 Email: kelayx@gmail.com
 
 LinkedIn: https://linkedin.com/in/kirill-geraskin
-
 Личный сайт: https://citateforms.com/kelayx
 
