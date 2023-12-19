@@ -15,16 +15,23 @@
 <h1>Портфолио</h1>
 
 Проект №1 - Тестирование web-приложение от Skyeng.
+
 Цель - Тестирование функционала "Расписание / Личные события"
+
 Ссылка на проект : https://drive.google.com/file/d/1iV_90GGk08fzF_B_cLCEeNOOiYY6XkM0
 
 Проект №2 - Тестирование кабинета учителя Skyeng через API.
+
 Цель - Тестирование вкладки "Расписание / Личные события"
+
 Ссылка на тест-план : https://drive.google.com/file/d/1iV_90GGk08fzF_B_cLCEeNOOiYY6XkM0
+
 Ссылка на проект : https://docs.google.com/spreadsheets/d/1GSYUjQIK64heLIuaMw5PRyHxJU8rRvc4RjK_r3hWzXk
 
 Проект №3 - Тестирование web-приложение от Skyeng.
+
 Цель - Тестирование функционала "Расписание / Личные события"
+
 Ссылка на проект : https://drive.google.com/file/d/1iV_90GGk08fzF_B_cLCEeNOOiYY6XkM0
 
 
