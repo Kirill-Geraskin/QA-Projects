@@ -15,34 +15,37 @@
 <center><h1>Портфолио</h1></center>
 
 
-<p>Проект №1 - Тестирование web-приложение от Skyeng.</p>
+<p><h2>Проект №1 - Тестирование web-приложение от Skyeng.</h2></p>
 
 <ol>Цель - Тестирование функционала "Расписание / Личные события"
 
 Ссылка на проект : https://drive.google.com/file/d/1iV_90GGk08fzF_B_cLCEeNOOiYY6XkM0</ol>
 
 
-<p>Проект №2 - Тестирование кабинета учителя Skyeng через API.</p>
 
-Цель - Тестирование вкладки "Расписание / Личные события"
+<p><h2>Проект №2 - Тестирование кабинета учителя Skyeng через API.</h2></p>
+
+<ol>Цель - Тестирование вкладки "Расписание / Личные события"
 
 Ссылка на тест-план : https://drive.google.com/file/d/1iV_90GGk08fzF_B_cLCEeNOOiYY6XkM0
 
-Ссылка на проект : https://docs.google.com/spreadsheets/d/1GSYUjQIK64heLIuaMw5PRyHxJU8rRvc4RjK_r3hWzXk
+Ссылка на проект : https://docs.google.com/spreadsheets/d/1GSYUjQIK64heLIuaMw5PRyHxJU8rRvc4RjK_r3hWzXk</ol>
 
 
-<p>Проект №3 - Финальное задание по SQL.</p>
 
-Цель - Необходимо написать 12 SQL-запросов для расшифровки плавающего бага.
+<p><h2>Проект №3 - Финальное задание по SQL.</h2></p>
 
-Ссылка на проект : https://docs.google.com/document/d/1ZjtyhB0AFL-uLC2yRkhyoqyNnehPEHaEAshjwnl1J6c
+<ol>Цель - Необходимо написать 12 SQL-запросов для расшифровки плавающего бага.
+
+Ссылка на проект : https://docs.google.com/document/d/1ZjtyhB0AFL-uLC2yRkhyoqyNnehPEHaEAshjwnl1J6c</ol>
 
 
-<p>Проект №4 - Аттестация - репетиция по выполнению тестового задания.</p>
 
-Цель - Практика перед реальным процессом трудоустройства.
+<p><h2>Проект №4 - Аттестация - репетиция по выполнению тестового задания.</h2></p>
 
-Ссылка на проект : https://docs.google.com/spreadsheets/d/1juvzq7Igjfz730QCAyEYvWT-scZqxTg8wytorn0gNhA
+<ol>Цель - Практика перед реальным процессом трудоустройства.
+
+Ссылка на проект : https://docs.google.com/spreadsheets/d/1juvzq7Igjfz730QCAyEYvWT-scZqxTg8wytorn0gNhA</ol>
 
 
 
