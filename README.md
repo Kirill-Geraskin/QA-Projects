@@ -37,6 +37,13 @@
 Ссылка на проект : https://docs.google.com/document/d/1ZjtyhB0AFL-uLC2yRkhyoqyNnehPEHaEAshjwnl1J6c
 
 
+Проект №4 - Аттестация - репетиция по выполнению тестового задания.
+
+Цель - Практика перед реальным процессом трудоустройства.
+
+Ссылка на проект : https://docs.google.com/spreadsheets/d/1juvzq7Igjfz730QCAyEYvWT-scZqxTg8wytorn0gNhA
+
+
 
 
 <h3><b>Контактная информация:</b></h3>
